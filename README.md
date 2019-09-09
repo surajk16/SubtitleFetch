@@ -12,6 +12,6 @@ Steps to run:
   ```pip install -r requirements.txt```
 5. If you have a User Agent, fill in the User Agent inside config.py
 5. Run main.py with the path to the video file as an argument.  
-  ```python main.py```
+  ```python main.py /path/to/video```
 6. Choose the subtitle you want to download.
 7. Download and enjoy the subtitles! :)
