@@ -24,6 +24,7 @@ def main():
 
         # Get the hash of the video and the size in bytes
         (moviehash, moviebytesize) = hashFile(file)
+        moviebytesize = str(moviebytesize)
         
         # Param to search for the subtitles
         movie_details = [
